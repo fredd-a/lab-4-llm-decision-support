@@ -1,8 +1,0 @@
-%%writefile .gitignore
-__pycache__/
-*.py[cod]
-.env
-.venv/
-venv/
-.ipynb_checkpoints/
-secrets.json
